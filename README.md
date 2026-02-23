@@ -17,16 +17,16 @@ The following Excel skills were utilized for analysis:
 
 - **Charts**
 - **Formulas and Functions**
-- ** Data Validation**
+- **Data Validation**
 
 ### Data Jobs Dataset
 
 The dataset used for this project provides a foundation for analyzing data using Excel. It includes detailed information on:
 
-- ** Job titles**
-- ** Salaries**
-- ** Locations**
-- ** Skills**
+- **Job titles**
+- **Salaries**
+- **Locations**
+- **Skills**
 
 ## Dashboard Build
 
