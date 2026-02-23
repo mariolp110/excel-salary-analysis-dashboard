@@ -15,8 +15,8 @@ My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
 
 The following Excel skills were utilized for analysis:
 
-- ** Charts**
-- ** Formulas and Functions**
+- **Charts**
+- **Formulas and Functions**
 - ** Data Validation**
 
 ### Data Jobs Dataset
